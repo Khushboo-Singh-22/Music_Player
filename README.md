@@ -1,16 +1,106 @@
-# React + Vite
+# 🎵 Music Player Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Music Player Web Application** built using **React + Vite**.
+This project demonstrates frontend development skills, component-based architecture, and clean UI design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+🔗 https://music-player-jhim19fra-khushboo-singh-22s-projects.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 🎧 Play / Pause music
+* ⏭️ Next / Previous track
+* 📃 Song list display
+* 🎼 Playlist section
+* 🎨 Clean and responsive UI
+* ⚡ Fast performance with Vite
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js
+* **Build Tool:** Vite
+* **Styling:** CSS
+* **State Management:** React Context API
+
+---
+
+## 📁 Project Structure
+
+```
+music-player/
+│
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── MusicPlayer.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Playlists.jsx
+│   │   └── AllSongs.jsx
+│   ├── contexts/
+│   │   └── MusicContext.jsx
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚠️ Important Note
+
+Due to large file size limitations, audio files are **not included** in this repository.
+
+👉 To test music playback locally:
+
+1. Create a folder:
+
+```
+public/songs/
+```
+
+2. Add your own `.mp3` or `.wav` files
+3. Update song paths in the code if needed
+
+---
+
+## 🧪 Run Locally
+
+Clone the project and run:
+
+```bash
+git clone https://github.com/Khushboo-Singh-22/Music_Player.git
+cd Music_Player
+npm install
+npm run dev
+```
+
+---
+
+## 📌 Future Improvements
+
+* 🔍 Search songs
+* ❤️ Favorite songs
+* ☁️ Online audio streaming
+* 📱 Better mobile UI
+* 🎧 Volume & progress control
+
+---
+
+## 🙋‍♀️ Author
+
+**Khushboo Singh**
+BCA Final Year Student | Aspiring Full Stack Developer
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
