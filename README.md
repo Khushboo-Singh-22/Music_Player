@@ -97,7 +97,7 @@ npm run dev
 ## 🙋‍♀️ Author
 
 **Khushboo Singh**
-BCA Final Year Student | Aspiring Full Stack Developer
+Aspiring Full Stack Developer
 
 ---
 
