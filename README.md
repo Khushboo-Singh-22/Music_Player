@@ -7,7 +7,8 @@ This project demonstrates frontend development skills, component-based architect
 
 ## 🚀 Live Demo
 
-🔗 https://music-player-jhim19fra-khushboo-singh-22s-projects.vercel.app
+🔗 music-player-mocha-iota.vercel.app
+
 
 ---
 
